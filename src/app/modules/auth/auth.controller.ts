@@ -31,7 +31,7 @@ const loginUser = catchAsync(async (req: Request, res: Response) => {
     statusCode: 200,
     success: true,
     message: 'User loggedin successfully !',
-    data: others,
+    token:others.accessToken,
   });
 });
 export const AuthController = {

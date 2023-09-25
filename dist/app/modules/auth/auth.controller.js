@@ -52,7 +52,7 @@ const loginUser = (0, catchAsync_1.default)((req, res) => __awaiter(void 0, void
         statusCode: 200,
         success: true,
         message: 'User loggedin successfully !',
-        data: others,
+        token: others.accessToken,
     });
 }));
 exports.AuthController = {

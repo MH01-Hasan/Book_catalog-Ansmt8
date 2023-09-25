@@ -3,7 +3,8 @@
 Welcome to the Book Catalog Server documentation. This readme provides an overview of the Book Catalog Server's API routes and their functionalities.
 
 ## Live Link
-Visit the live version of the Book Catalog Server [here](https://book-catalog-server-lbr599tom-mh01-hasan.vercel.app).
+Visit the live version of the Book Catalog Server [here](https://book-catallog-server-six.vercel.app).
+
 
 ## Table of Contents
 - [Application Routes](#application-routes)
